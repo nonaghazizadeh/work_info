@@ -25,3 +25,9 @@ In this paper they proposed an approach called FineLocator for method-level fine
 Image below is a overall architecture of the proposed approach:
 
 <img width="812" alt="image" src="https://user-images.githubusercontent.com/59199865/212193828-05d8f7e7-2b07-4e36-96bd-a7a383cf849c.png">
+
+## Prioritizing bug issues in GitHub based on the impact on the most used parts of the code
+
+In this proposal, they proposed an approach to prioritze bug issues. They used a method, to extract most used parts of the code with static and dynamic analysis for prioritizing issues. 
+</br>
+In [this link](https://drive.google.com/file/d/10SM5CHJOSyagqKIAAZ98srzlZcm_uZPb/view?usp=sharing) this seminar is uploaded.
